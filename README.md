@@ -1,2 +1,2 @@
 # github-demo
-Ejercucui curso git Udemy
+Ejercicio curso git Udemy
